@@ -1,2 +1,2 @@
-# VideoBin_APIS
+# VideoBin APIS
 Get Data From videobin.co
