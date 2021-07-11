@@ -5,6 +5,13 @@ Get Data From videobin.co
 https://paidcodes.albdroid.al/Video_Bin_APIS
 
 # Players Ulock code = 123456
+
+# GET ON ALL PHP's
+?url=https://videobin.co/XXXXXXXX
+
+?url=https://videobin.co/embed-XXXXXXXX.html
+
+ONLY /Players/ADS_Remover/ Working with embed-XXXXXXXX.html
 # Contain in API
 
     VLC Player
