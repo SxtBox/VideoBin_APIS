@@ -16,3 +16,6 @@ https://paidcodes.albdroid.al/Video_Bin_APIS
 
 # Multi Functional Player
 https://paidcodes.albdroid.al/Players/AIO_Streams_Player/
+
+# INFO
+if you are interested in buying it contact us at trc4@usa.com
