@@ -20,19 +20,26 @@ https://paidcodes.albdroid.al/Players/AIO_Streams_Player/
 # INFO
 if you are interested in buying it contact us at trc4@usa.com
 
-
+ADS Remover Main
 ![Logo](https://raw.githubusercontent.com/SxtBox/VideoBin_APIS/main/Screenshots/ADS_Remover_Main.png?raw=true)
 
+ADS Remover Playing
 ![Logo](https://raw.githubusercontent.com/SxtBox/VideoBin_APIS/main/Screenshots/ADS_Remover_Playing.png?raw=true)
 
+Clappr Player DVR
 ![Logo](https://raw.githubusercontent.com/SxtBox/VideoBin_APIS/main/Screenshots/Clappr_Player_DVR.png?raw=true)
 
+Clappr Player Simple
 ![Logo](https://raw.githubusercontent.com/SxtBox/VideoBin_APIS/main/Screenshots/Clappr_Player_Simple.png?raw=true)
 
+Embed Player
 ![Logo](https://raw.githubusercontent.com/SxtBox/VideoBin_APIS/main/Screenshots/Embed_Player.png?raw=true)
 
+JW Player1
 ![Logo](https://raw.githubusercontent.com/SxtBox/VideoBin_APIS/main/Screenshots/JW_Player1.png?raw=true)
 
+JW Player2
 ![Logo](https://raw.githubusercontent.com/SxtBox/VideoBin_APIS/main/Screenshots/JW_Player2.png?raw=true)
 
+PLYR Player
 ![Logo](https://raw.githubusercontent.com/SxtBox/VideoBin_APIS/main/Screenshots/PLYR_Player.png?raw=true)
