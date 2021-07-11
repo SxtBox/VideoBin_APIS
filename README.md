@@ -4,6 +4,7 @@ Get Data From videobin.co
 # Hosted API
 https://paidcodes.albdroid.al/Video_Bin_APIS
 
+# Players Ulock code = 123456
 # Contain in API
 
     VLC Player
