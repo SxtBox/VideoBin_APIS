@@ -43,3 +43,12 @@ JW Player2
 
 PLYR Player
 ![Logo](https://raw.githubusercontent.com/SxtBox/VideoBin_APIS/main/Screenshots/PLYR_Player.png?raw=true)
+
+VLC Main
+![Logo](https://raw.githubusercontent.com/SxtBox/VideoBin_APIS/main/Screenshots/VLC_Main.png?raw=true)
+
+VLC Playing
+![Logo](https://raw.githubusercontent.com/SxtBox/VideoBin_APIS/main/Screenshots/VLC_Playing.png?raw=true)
+
+VLC Stream Info
+![Logo](https://raw.githubusercontent.com/SxtBox/VideoBin_APIS/main/Screenshots/VLC_Stream_Info.png?raw=true)
