@@ -14,6 +14,9 @@ http://albdroid.al/live-tv/category/videobin-apis.html
 
 ?url=https://videobin.co/embed-XXXXXXXX.html
 
+# JSON API
+https://paidcodes.albdroid.al/Video_Bin_APIS/json/?url=null
+
 ONLY /Players/ADS_Remover/ Working with embed-XXXXXXXX.html
 # Contain in API
 
