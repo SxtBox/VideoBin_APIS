@@ -4,6 +4,9 @@ Get Data From videobin.co
 # Hosted API
 https://paidcodes.albdroid.al/Video_Bin_APIS
 
+# DEMO LIVE TEST
+http://albdroid.al/live-tv/category/videobin-apis.html
+
 # Players Ulock code = 123456
 
 # GET ON ALL PHP's
